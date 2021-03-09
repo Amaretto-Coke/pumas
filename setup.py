@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-Amaretto-Coke", # Replace with your own username
+    name="pumas-Amaretto-Coke", # Replace with your own username
     version="0.0.1",
     author="Brandon Muise",
     author_email="brandonmuise1@gmail.com",
